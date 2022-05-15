@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+test_wavs
+train_wavs
+artifacts
+sample_submission.csv
+train_labels.csv
